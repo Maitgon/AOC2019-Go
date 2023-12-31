@@ -10,4 +10,5 @@ I will also update each day with a log for each day that contains the problem de
 
 ## Days
 
-- ⭐⭐ [Day 1](days/day01/day01.md)[The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1)
+* ⭐⭐ [Day 1](days/day01/day01.md): [The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1)
+* ⭐⭐ [Day 2](days/day02/day02.md): [1202 Program Alarm](https://adventofcode.com/2019/day/2)
